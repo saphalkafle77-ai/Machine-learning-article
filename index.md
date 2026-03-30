@@ -1,8 +1,10 @@
 ---
 layout: home
-title: Saphal's ML Notes
+title: Machine learning article.
 ---
 
-Welcome to my machine learning notes.
-I write one article per algorithm as I learn.
-```
+Welcome to my machine learning documentation.
+Here i try to teach you things which i learned in my 
+  machine learning journey 
+ I hope it helps.......
+
